@@ -1,2 +1,2 @@
-int sum (int a)
+int sum2 (int a)
 return
