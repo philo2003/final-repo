@@ -1,3 +1,4 @@
 
-int sum2 (int a) here make a conflilict
-return only
+int sum2 (int a) don't make a confilict
+return confilict
+
